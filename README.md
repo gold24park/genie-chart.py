@@ -1,4 +1,4 @@
-# genie-chart.py
+# 🧞 지니뮤직 차트 API: genie-chart.py
 ![genie](./image.jpg)
 
 genie-chart.py is a Python API that retrieves the TOP 100 chart information from the [Genie](https://www.genie.co.kr/).
